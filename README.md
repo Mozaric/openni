@@ -1,2 +1,2 @@
 # openni
-openni practice
+practice of openni
